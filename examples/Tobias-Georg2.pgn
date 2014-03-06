@@ -1,0 +1,20 @@
+[Event "Mandagssjakk 3. mars 2014"]
+[Site "Georgs mancave"]
+[Date "2014.03.03"]
+[Round "2"]
+[White "Tobias Langhoff"]
+[Black "Georg Ellingsen"]
+[Result "*"]
+[TimeControl "600"]
+[Termination "unterminated"]
+[PlyCount "66"]
+[WhiteType "human"]
+[BlackType "human"]
+[Annotator "Tobias Langhoff"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 Nc6 4. c3 e5 5. cxd4 Bb4 6. Bd2 Qa5 7. Nc3 exd4
+8. Nd5 Bxd2+ 9. Qxd2 Qd8 10. Nxd4 Nge7 11. Bc4 Nexd5 12. exd5 Nxd4 13. Qxd4 O-O
+14. O-O b6 15. Rac1 $2 (15. d6 a5 (15... a6 )) d6 16. a4 a5 17. Bb5 Ba6 { Cumming in my face }
+18. Rc6 Bxb5 19. axb5 Rb8 20. b4 a4 21. Ra1 Re8 22. h3 Qg5 23. Rxa4 $2
+(23. Rxb6) Re1+ 24. Kh2 Qe5+ 25. Qxe5 dxe5 26. d6 Rd1 27. Ra6 e4 28. d7 Rxd7
+29. Raxb6 Rdd8 30. Rxb8 Rxb8 31. Kg3 f5 32. Kf4 Rxb5 33. Rc8+ Kf7 { Her tror jeg hvit (Tobias) ga opp, og vi diskuterte Rc4 vs Rc5. Det som er interessant er at en online-analyse jeg kjørte sier at Rc4 er helt likt, og Rc5 er 0,51 til hvit! } *
